@@ -1,6 +1,6 @@
 #  AL HIND OFFICIAL DDOS
 
-Stongest Server 4ttacks from TEAM AL HIND OFFICIAL FOUNDER 
+Stongest Server 4ttacks from TEAM AL HIND OFFICIAL 
 
 
 
@@ -8,7 +8,7 @@ Stongest Server 4ttacks from TEAM AL HIND OFFICIAL FOUNDER
 
 -  <code> pkg install python </code>
 -  <code> git clone https://github.com/AlJh4cker/alhindofficial.git</code>
--  <code> cd  ALI </code> 
+-  <code> cd  alhindofficial </code> 
 -  <code> pip install -r installing.txt </code>
 -  <code> python aliddos.py -h  </code>
 
